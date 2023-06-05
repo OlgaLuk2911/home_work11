@@ -1,0 +1,21 @@
+.page{
+  text-align: center;
+}
+.name{
+  font-size: 60px;
+  color: darkslategray;
+}
+.btn{
+  background-color: rgba(60, 184, 89, 0.801);
+}
+.wrap{
+  width: 400px;
+  margin: auto;
+  text-align: left;
+  word-wrap: break-word;
+ font-weight: bold;
+}
+.done{
+  text-decoration: line-through;
+  color: grey;
+}
